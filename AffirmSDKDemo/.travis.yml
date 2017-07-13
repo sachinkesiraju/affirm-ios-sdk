@@ -1,2 +1,0 @@
-language: objective-c
-script: xcodebuild -workspace AffirmSDKDemo.xcworkspace -scheme AffirmSDKUITests -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 6,OS=10.3' test
