@@ -1,0 +1,4 @@
+language: objective-c
+xcode_workspace: AffirmSDKDemo/AffirmSDKDemo.xcworkspace
+xcode_scheme: AffirmSDKUITests
+podfile: AffirmSDKDemo/Podfile
